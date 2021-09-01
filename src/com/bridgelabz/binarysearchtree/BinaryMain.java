@@ -9,7 +9,7 @@ public class BinaryMain {
 		binaryTree.add(i);
 		}
 		System.out.println(binaryTree.size());
-
+		binaryTree.search(40);
 	}
 
 }
